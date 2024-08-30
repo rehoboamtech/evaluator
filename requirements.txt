@@ -1,0 +1,9 @@
+flask
+flask-cors
+requests
+cryptography
+scikit-learn
+transformers
+torch
+celery
+redis
